@@ -1,4 +1,5 @@
 python-telegram-bot==22.5
 qrcode[pil]
 Pillow
-python-dotenv 
+python-dotenv
+Flask
